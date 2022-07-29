@@ -1,0 +1,2 @@
+1.Check whether the number is weird or not ?
+weird condition  = odd numbers and number greater than 0, lesser than 6
