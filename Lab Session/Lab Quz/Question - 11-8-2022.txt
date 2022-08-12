@@ -1,0 +1,7 @@
+In Java, inheritance is an is-a relationship. That is, we use inheritance only if there exists an is-a relationship between two classes. For example,
+
+Car is a Vehicle
+Orange is a Fruit
+Surgeon is a Doctor
+Dog is an Animal
+Here, Car can inherit from Vehicle, Orange can inherit from Fruit, and so on.
