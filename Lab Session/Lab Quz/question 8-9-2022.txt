@@ -1,0 +1,1 @@
+Question =         Write a java program using synchronization and extend the thread
